@@ -1,10 +1,10 @@
 <!--Banner-->
-![KindDragon's Banner Image](./banner.png)
+![TeTeBoy's Banner Image](./banner.png)
 
 <!--Night Owl image-->
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ KingDragon! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ TeTeBoy! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -189,7 +189,7 @@
 </a>
 
 <a href="https://www.githubcom/KingDragon0421" target="_blank">
-<img src="./github.png" width=50 height=50 alt="KingDragon0421" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="TeTeBoy" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">

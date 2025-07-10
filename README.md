@@ -2,9 +2,9 @@
 ![KindDragon's Banner Image](./banner.png)
 
 <!--Night Owl image-->
-<div>
+<!-- <div>
   <img align="right" width="30%" src="./notecom.png">
-</div>
+</div> -->
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ KingDragon! 

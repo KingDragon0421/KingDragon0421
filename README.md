@@ -36,7 +36,7 @@
 </picture>
 <br />
 
-<h3 align="left">Recently provided</h3>
+<h3 align="center">Recently provided</h3>
 <ul align="left">
   <p>🧠 AI Agent & Automation Engineering</p>
   <li>Prompt-Based LLM Apps using OpenAI & custom memory tools
@@ -44,13 +44,6 @@
   <li>Workflow Automation using n8n – for APIs, scraping, messaging, file routing
   <li>Chatbot Development integrated into support systems & frontend UIs
   <li>Image + Data Pipelines for content generation and task scheduling
-
-  <p>🖥 Full-Stack Web Application Development</p>
-  <li>Frontend: React, Tailwind, TypeScript, Vite
-  <li>Backend: Node.js, Express, Supabase, Firebase, Python (FastAPI)
-  <li>Web Apps: Auth, database CRUD, storage, edge functions, serverless APIs
-  <li>Website-to-App: Convert web platforms to PWA/mobile-ready interfaces
-  <li>Ecommerce: Custom product pages, carts, checkout logic, inventory syncing
 </ul>
   
 <br />

@@ -36,13 +36,21 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Recently provided</h3>
 <ul align="left">
-  <li>AI-enhanced SaaS tools and internal automation platforms</li>
-  <li>Scalable full-stack systems using Supabase, Node, and React</li>
-  <li>Workflow automation using n8n and Python</li>
-  <li>Conversion-ready mobile interfaces & PWAs</li>
-  <li>Clean UI design with efficient backend logic</li>
+  <p>🧠 AI Agent & Automation Engineering</p>
+  <li>Prompt-Based LLM Apps using OpenAI & custom memory tools
+  <li>AI Agent Logic with LangChain, task execution, and vector recall
+  <li>Workflow Automation using n8n – for APIs, scraping, messaging, file routing
+  <li>Chatbot Development integrated into support systems & frontend UIs
+  <li>Image + Data Pipelines for content generation and task scheduling
+
+  <p>🖥 Full-Stack Web Application Development</p>
+  <li>Frontend: React, Tailwind, TypeScript, Vite
+  <li>Backend: Node.js, Express, Supabase, Firebase, Python (FastAPI)
+  <li>Web Apps: Auth, database CRUD, storage, edge functions, serverless APIs
+  <li>Website-to-App: Convert web platforms to PWA/mobile-ready interfaces
+  <li>Ecommerce: Custom product pages, carts, checkout logic, inventory syncing
 </ul>
   
 <br />
@@ -54,39 +62,6 @@
 <br />
 <br clear="both"/>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/KingDragon0421">
-        <img src="https://github-readme-stats.vercel.app/api?username=KingDragon0421&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/KingDragon0421">
-        <img src="https://streak-stats.demolab.com?user=KingDragon0421&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/KingDragon0421/multi-format-ai-agents">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=KingDragon0421&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/KingDragon0421">
-        <img src="https://github-contributor-stats.vercel.app/api?username=KingDragon0421&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
 <br />
 
 <!--Contribution Graph-->
@@ -236,7 +211,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KingDragon0421/KingDragon0421/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
 
 <!--Footer--> 
 <p align="center">
